@@ -1,3 +1,6 @@
+
+//Question 1 :Write a Java method to compute the averageof three numbers.
+
 public class AvgThreeno {
 
    public static double avgthree(int a , int b, int c){
